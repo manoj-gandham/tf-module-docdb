@@ -12,4 +12,4 @@ variable "port_no" {
   default = 27017
 }
 variable "instance_count" {}
-variable "instance-class" {}
+variable "instance_class" {}
